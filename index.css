@@ -1,0 +1,17 @@
+body {
+    padding-bottom: 30px;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", serif;
+    background-color: #f9f3ec;
+    background-image: radial-gradient(#fdfbf9 10%, transparent 15%);
+    background-size: 60px 60px; 
+    min-height: 100vh;
+    color: #2C2A29;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: large;
+}

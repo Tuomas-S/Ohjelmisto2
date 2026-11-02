@@ -1,27 +1,33 @@
-## Ohjelmisto 2 -ohjelmointitehtävät
+## Ohjelmisto 2 -ohjelmointitehtävät [(Github.io)](https://tuomas-s.github.io/Ohjelmisto2/)
 
-[Linkki verkkosivuille githubissa](https://tuomas-s.github.io/Ohjelmisto2/)
+### [Javascript 1 ja 2](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)
 
-### Javascript 1 ja 2
-
-[Tehdyt tehtävät:](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)  
+Tehdyt tehtävät:
   
-- Tehtävä 1: 1p  
-- Tehtävä 2: 2p  
-- Tehtävä 3: 3p  
-- Tehtävä 4: 3p  
-- Tehtävä 5: 3p
+| Tehtävä | Pisteet |
+|:-------:|:-------:|
+|  T - 1  |    1p   |
+|  T - 2  |    2p   |
+|  T - 3  |    3p   |
+|  T - 4  |    3p   |
+|  T - 5  |    3p   |
+|         |         |
+|   Yht.  |   12p   |
   
 **Yhteensä 12p**
 
-### Javascript 3
+### [Javascript 3](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)
 
-[Tehdyt tehtävät:](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)  
+Tehdyt tehtävät:  
   
-- Tehtävä 1: 1p  
-- Tehtävä 2: 2p  
-- Tehtävä 3: 3p  
-- Tehtävä 4: 3p  
-- Tehtävä 5: 3p
+| Tehtävä | Pisteet |
+|:-------:|:-------:|
+|  T - 1  |    1p   |
+|  T - 2  |    2p   |
+|  T - 3  |    3p   |
+|  T - 4  |    3p   |
+|  T - 5  |    3p   |
+|         |         |
+|   Yht.  |   12p   |
   
 **Yhteensä 12p**

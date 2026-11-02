@@ -2,9 +2,9 @@
 
 [Linkki verkkosivuille githubissa](https://tuomas-s.github.io/Ohjelmisto2/)
 
-### [Javascript 1 ja 2](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)
+### Javascript 1 ja 2
 
-Tehdyt tehtävät:  
+[Tehdyt tehtävät:](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)  
   
 - Tehtävä 1: 1p  
 - Tehtävä 2: 2p  
@@ -14,9 +14,9 @@ Tehdyt tehtävät:
   
 **Yhteensä 12p**
 
-### [Javascript 3](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)
+### Javascript 3
 
-Tehdyt tehtävät:  
+[Tehdyt tehtävät:](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)  
   
 - Tehtävä 1: 1p  
 - Tehtävä 2: 2p  

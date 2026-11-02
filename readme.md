@@ -2,8 +2,6 @@
 
 ### [Javascript 1 ja 2](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)
 
-Tehdyt tehtävät:
-  
 | Tehtävä | Pisteet |
 |:-------:|:-------:|
 |  T - 1  |    1p   |
@@ -14,11 +12,7 @@ Tehdyt tehtävät:
 |         |         |
 |   Yht.  |   12p   |
   
-**Yhteensä 12p**
-
-### [Javascript 3](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)
-
-Tehdyt tehtävät:  
+### [Javascript 3](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html) 
   
 | Tehtävä | Pisteet |
 |:-------:|:-------:|
@@ -29,5 +23,3 @@ Tehdyt tehtävät:
 |  T - 5  |    3p   |
 |         |         |
 |   Yht.  |   12p   |
-  
-**Yhteensä 12p**

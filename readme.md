@@ -2,9 +2,7 @@
 
 [Linkki verkkosivuille githubissa](https://tuomas-s.github.io/Ohjelmisto2/)
 
-### Javascript 1 ja 2
-
-[Linkki kansioon](https://users.metropolia.fi/~tuomsoi)
+### [Javascript 1 ja 2](https://tuomas-s.github.io/Ohjelmisto2/Javascript2/index.html)
 
 Tehdyt tehtävät:  
   
@@ -16,9 +14,7 @@ Tehdyt tehtävät:
   
 **Yhteensä 12p**
 
-### Javascript 3
-
-[Linkki kansioon](https://users.metropolia.fi/~tuomsoi)
+### [Javascript 3](https://tuomas-s.github.io/Ohjelmisto2/Javascript3/index.html)
 
 Tehdyt tehtävät:  
   

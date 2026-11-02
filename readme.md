@@ -20,5 +20,21 @@ Tehdyt tehtävät:
 - Tehtävä 1: 1p  
 - Tehtävä 2: 2p  
 - Tehtävä 3: 3p  
+- Tehtävä 4: 3p  
+- Tehtävä 5: 3p
   
-**Yhteensä 11p**
+**Yhteensä 12p**
+
+### Javascript 3
+
+[Linkki kansioon](https://users.metropolia.fi/~tuomsoi)
+
+Tehdyt tehtävät:  
+  
+- Tehtävä 1: 1p  
+- Tehtävä 2: 2p  
+- Tehtävä 3: 3p  
+- Tehtävä 4: 3p  
+- Tehtävä 5: 3p
+  
+**Yhteensä 12p**

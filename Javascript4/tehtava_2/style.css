@@ -1,0 +1,5 @@
+.my-item {
+  box-sizing: border-box;
+  width: fit-content;
+  background-color: rgb(225, 175, 175);
+}

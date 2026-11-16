@@ -8,6 +8,7 @@ document.getElementById("start").addEventListener("click", function() {
 
     if(isNaN(numero1) || isNaN(numero2)) {
         tulos.textContent = "Virhe: Syötä kelvolliset luvut."
+        return
     }
 
     if(tapa === "add") {

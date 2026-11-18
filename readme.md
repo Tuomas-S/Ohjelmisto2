@@ -23,3 +23,11 @@ Yhteensä: 21p
 | Pisteet | 2p | 2p | 2p | 2p | 5p | 1p | 2p | 4p | 2p |
 
 Yhteensä: 22p
+
+### Python Flask
+  
+| Tehtävä | T1 | T2 | T3 |
+|:-------:|:--:|:--:|:--:|
+| Pisteet | 4p | 10p | 6p |
+
+Yhteensä: 20p
